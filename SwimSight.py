@@ -15,9 +15,9 @@ from copy import deepcopy
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 """"""""""""""""""""""""" DEFINE VARIABLES """""""""""""""""""""""""""""""""""""""""""""
-right = "C:/Users/olivi/Documents/jackRight.mp3"
-left = "C:/Users/olivi/Documents/jackLeft.mp3"
-turnAround = "C:/Users/olivi/Documents/jackTurn.mp3"
+right = "C:/Users/olivi/Documents/right.mp3"
+left = "C:/Users/olivi/Documents/left.mp3"
+turnAround = "C:/Users/olivi/Documents/turn.mp3"
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 """""""""""""""""""""""DEFINE FUNCTIONS"""""""""""""""""""""""""""""""""""""""""""""""
